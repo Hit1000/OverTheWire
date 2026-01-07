@@ -9,5 +9,20 @@ http://natasX.natas.labs.overthewire.org
 6 - 0RoJwHdSKWFTYR5WuiAewauSuNaBXned
 7 - bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
 8 - xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q
-9 - 
-10 - 
+9 - ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
+10 - t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu
+11 - UJdqkK1pTu6VLt9UHWAgRZz6sVUZ3lEk
+12 - yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
+13 - trbs5pCjCrkuSknBBKHhaBxq6Wm1j3LC
+14 - z3UYcr4v4uBpeX8f7EZbMHlzK4UR2XtQ
+15 - 
+16 - 
+17 - 
+18 - 
+19 - 
+20 - 
+21 - 
+22 - 
+23 - 
+24 - 
+25 - 
